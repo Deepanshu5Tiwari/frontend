@@ -1,1 +1,14 @@
 @import "tailwindcss";
+.slideshow-container {
+    text-align: center;
+    width: 90%;
+    height: 80;
+    margin: auto;
+  }
+  
+  .slideshow-container img {
+    width: 100%;
+    height: 450;
+    border-radius: 8px;
+  }
+  

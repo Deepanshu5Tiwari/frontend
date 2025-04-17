@@ -1,0 +1,8 @@
+.bg{
+    background-image: url("./bgg.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    min-height: 50vh;
+    padding-top: 4rem;
+}
